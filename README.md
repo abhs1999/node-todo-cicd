@@ -21,4 +21,4 @@ This project demonstrates a Continuous Integration and Continuous Deployment (CI
 4. Add a webhook to trigger the workflow when changes are pushed to the repository.
 
 ## Conclusion
-This CI/CD pipeline provides a robust and automated solution for deploying a Node.js application to AWS EC2. By using Docker, the pipeline can be easily adapted to different environments and scaled as needed. The integration with GitHub Actions and the use of a webhook make it easy to keep the pipeline up-to-date with the latest changes to the code
+This CI/CD pipeline provides a robust and automated solution for deploying a Node.js application to AWS EC2. By using Docker, the pipeline can be easily adapted to different environments and scaled as needed. The integration with GitHub Actions and the use of a webhook make it easy to keep the pipeline up-to-date with the latest changes to the code.
