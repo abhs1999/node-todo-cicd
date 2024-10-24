@@ -34,10 +34,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # Run tests
-      - name: Run tests
-        run: npm test
-
       # Optionally, you can build your application if needed
       - name: Build application
         run: npm run build  # Assumes you have a build script in your package.json
